@@ -1,0 +1,13 @@
+h1
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+.user_data input[type="text"]
+{
+    width: 10%;
+    margin: 1px 1em;
+    border: 1px solid orange;
+    border-radius: 13px;
+}
